@@ -1,0 +1,31 @@
+{
+  "name": "webpack-common",
+  "version": "0.0.1",
+  "description": "Common webpack config based on SurviveJS Webpack",
+  "main": "lib/index.js",
+  "keywords": [],
+  "author": "Troy Schneringer",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/troyschneringer/webpack-common.git"
+  },
+  "dependencies": {
+    "babel-core": "^6.18.2",
+    "babel-loader": "^6.2.8",
+    "babel-preset-latest": "^6.16.0",
+    "babel-preset-react": "^6.16.0",
+    "babel-preset-react-hmre": "^1.1.1",
+    "clean-webpack-plugin": "^0.1.14",
+    "css-loader": "^0.26.0",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "html-webpack-plugin": "^2.24.1",
+    "merge": "^1.2.0",
+    "react": "^15.4.1",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.3",
+    "webpack-dev-server": "^1.16.2",
+    "webpack-merge": "^1.0.1",
+    "webpack-validator": "^2.2.9"
+  }
+}
