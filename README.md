@@ -1,10 +1,10 @@
-# webpack-common
+# webpack-cookbook
 
 A common webpack configuration based on https://github.com/survivejs/webpack 1.3.3
 
 ## Installation
 
-  `npm install webpack-common --save-dev`
+  `npm install webpack-cookbook --save-dev`
 
 ## Usage
 
@@ -30,7 +30,7 @@ Create a `webpack.config.js`
 
 ```
 const path = require('path');
-const webpack = require('webpack-common');
+const webpack = require('webpack-cookbook');
 
 var options = {
     paths: {

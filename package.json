@@ -1,5 +1,5 @@
 {
-  "name": "webpack-common",
+  "name": "webpack-cookbook",
   "version": "0.0.1",
   "description": "Common webpack config based on SurviveJS Webpack",
   "main": "lib/index.js",
@@ -8,7 +8,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/troyschneringer/webpack-common.git"
+    "url": "https://github.com/troyschneringer/webpack-cookbook.git"
   },
   "dependencies": {
     "babel-core": "^6.18.2",
