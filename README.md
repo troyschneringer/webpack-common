@@ -30,7 +30,7 @@ Create a `webpack.config.js`
 
 ```
 const path = require('path');
-const webpack = require('webpack-cookbook');
+const cookbook = require('webpack-cookbook');
 
 var options = {
     paths: {
@@ -41,5 +41,5 @@ var options = {
     title: 'React Applicaiton'
 };
 
-module.exports = webpack.config(options);
+module.exports = cookbook(options);
 ```
