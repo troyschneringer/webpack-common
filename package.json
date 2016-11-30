@@ -3,9 +3,11 @@
   "version": "0.0.1",
   "description": "Common webpack config based on SurviveJS Webpack",
   "main": "lib/index.js",
-  "keywords": [],
+  "keywords": [
+    "webpack"
+  ],
   "author": "Troy Schneringer",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "repository": {
     "type": "git",
     "url": "https://github.com/troyschneringer/webpack-cookbook.git"
